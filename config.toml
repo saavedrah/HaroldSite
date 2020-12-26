@@ -1,0 +1,13 @@
+baseURL = "https://saavedrah.github.io/"
+languageCode = "en-us"
+title = "Harold's Site"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
